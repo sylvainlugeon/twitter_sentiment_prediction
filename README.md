@@ -1,6 +1,3 @@
-# TO FIX
-- Dans glove_helpers def vectorize_tweet() empty, normal?
-
 # Glove creation
 
 This folder contains all functions used to create the embeddding in 200 dimensions which is used in our models.
